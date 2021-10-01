@@ -6,6 +6,12 @@
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>manetsum</string>
+	<key>LSApplicationCategoryType</key>
+	<array>
+		<string></string>
+	</array>
+	<key>CFBundleGetInfoString</key>
+	<string></string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -51,5 +57,15 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MPLUSRounded1c-Black.ttf</string>
+		<string>MPLUSRounded1c-Bold.ttf</string>
+		<string>MPLUSRounded1c-ExtraBold.ttf</string>
+		<string>MPLUSRounded1c-Light.ttf</string>
+		<string>MPLUSRounded1c-Medium.ttf</string>
+		<string>MPLUSRounded1c-Regular.ttf</string>
+		<string>MPLUSRounded1c-Thin.ttf</string>
+	</array>
 </dict>
 </plist>

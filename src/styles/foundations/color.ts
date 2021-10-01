@@ -42,9 +42,24 @@ export const color = {
       dotted: "#79F0FF",
       outline: "#14C0E8",
     },
+    primary: {
+      normal: "#723640"
+    }
   },
   text: {
-
+    primary: {
+      normal: "#61351A",
+      shadow: "#F9D067",
+    },
+    blue: {
+      dark: "#154573",
+      high: "#226498",
+      shadow: "#79C4EB"
+    },
+    white: {
+      normal: "#F1F0FE",
+      shadow: "#093C73"
+    },
   },
   logo: {
 
